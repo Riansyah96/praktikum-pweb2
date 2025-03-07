@@ -1,3 +1,4 @@
+
 <?php
     //mendefinisikan konstanta
     define("PHI", 3.14);
