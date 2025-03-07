@@ -7,4 +7,5 @@
     echo "Nama saya adalah : $nama <br>";
     echo "Umur saya : $umur <br>";
     echo "Berat badan saya adalah : $berat_badan Kg <br>";
+
 ?>

@@ -1,3 +1,4 @@
+
 <?php
     // $ar_buah = array("apel", "mangga", "pisang");
     $ar_buah = ["Pepaya", "Mangga", "Pisang","Jambu"];
